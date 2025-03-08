@@ -10,7 +10,7 @@
 
 #define COLUMN_NUM 4
 #define ROW_NUM 4
-#define KEYPAD_NO_PRESSED_KEY 0
+
 
 
 #endif /* HAL_KEYPAD_KP_PRIV_H_ */
